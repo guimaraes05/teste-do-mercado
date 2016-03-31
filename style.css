@@ -1,0 +1,31 @@
+/*Importar fuentes externas*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Montserrat);
+
+/*Estilizar o HTML*/
+*{
+    font-family: 'Open Sans', sans-serif !important;    
+    color: #000000;
+}
+/* Posicionando a foto do index.html*/
+.home-bg {
+    background-image: url('carrinho.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+/* Estilizando a tabela*/
+#tblList thead{
+    background:#49B86E;
+    color: #FFF;
+}
+
+.table{
+     
+    width: 100%;
+    margin: auto; 
+    
+    
+}
+
+
